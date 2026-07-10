@@ -21,3 +21,8 @@ Then you write the CSS rules for it in a separate CSS file:
 
 --A Hook is a special function in React whose name starts with use. Hooks let you "hook into" React features — like state and lifecycle behavior — from inside a function component.
 Before Hooks existed, only class components could do things like remember data (state) or run code at specific times (like when a component loads). Hooks brought those same abilities to function components, which are simpler to write and read.
+
+
+ JSX is a syntax extension, while React is a JavaScript library.
+
+ Props are the information that you pass to a JSX tag. For example, className, src, alt, width, and height are some of the props you can pass to an <img>:
