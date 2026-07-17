@@ -26,3 +26,9 @@ Before Hooks existed, only class components could do things like remember data (
  JSX is a syntax extension, while React is a JavaScript library.
 
  Props are the information that you pass to a JSX tag. For example, className, src, alt, width, and height are some of the props you can pass to an <img>:
+
+ Adding interactivityy less gooo
+
+ Adding event handlers 
+To add an event handler, you will first define a function and then pass it as a prop to the appropriate JSX tag. 
+
